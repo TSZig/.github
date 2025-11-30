@@ -6,7 +6,7 @@ TSZig is a transpiler that enables JavaScript/TypeScript developers to write sys
 
 ## 🚀 Features
 
-- **Familiar Syntax**: Write TypeScript-like code with types, interfaces, and ES6+ features
+- **Familiar Syntax**: Write TypeScript-like code with types, interfaces, and modern ES6/ES12 features
 - **Memory Safety**: Automatic resource cleanup with `@defer` annotation system
 - **Zero Memory Leaks**: Smart detection of file handles, allocations, and resources
 - **Native Performance**: Generates optimized Zig code that compiles to native executables
